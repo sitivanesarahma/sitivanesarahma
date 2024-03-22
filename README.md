@@ -7,7 +7,7 @@ Informatics student at Telkom University
 * 🌍  I'm based in Bandung
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/siti-vanesa-rahma)
 * ✉️  You can contact me at [sitivanesarahma@student.telkomuniversity.ac.id](mailto:sitivanesarahma@student.telkomuniversity.ac.id)
-* 🧠  I'm learning Cybersecurity
+* 🧠  I'm learning Computer Network and Cybersecurity
 
 ### Skills
 
