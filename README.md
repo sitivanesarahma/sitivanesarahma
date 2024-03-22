@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Informatics student at Telkom University
 ----------------------------------------
 
-* 🌍  I'm based in Bandung
+* 🌍  I'm based in Tangerang and Bandung
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/siti-vanesa-rahma)
-* ✉️  You can contact me at [sitivanesarahma@student.telkomuniversity.ac.id](mailto:sitivanesarahma@student.telkomuniversity.ac.id)
+* ✉️  You can contact me at [sitivanesarahma@student.telkomuniversity.ac.id](mailto:sitivanesarahma@student.telkomuniversity.ac.id) or [sitivanesa03@gmail.com](mailto:sitivanesa03@gmail.com)
 * 🧠  I'm learning Computer Network and Cybersecurity
 
 ### Skills
